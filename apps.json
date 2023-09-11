@@ -1,0 +1,31 @@
+{
+    "name": "Hollow's Cyrpt",
+    "identifier": "xyz.void.ipacrypt",
+    
+    "apps": [
+        {
+            "name": "HornyCraft",
+            "bundleIdentifier": "com.Hollow.HornyCraft",
+            "subtitle": "Port of Hornycraft v0.16",
+            "version": "0.16",
+            "versionDate": "2023-09-08",
+            "size": 1639452014,
+            "downloadURL": "https://github.com/HollowIncX/Hollows-Crypt/releases/download/9-11-23/HornyCraft.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/HollowIncX/Hollows-Crypt/main/Icons/Hornycraft%20icon.png"
+        },
+        {
+                    "name": "NAME",
+                    "bundleIdentifier": "com.google.ios.youtube",
+                    "subtitle": "An awesome app.",
+                    "version": "1.0",
+                    "versionDate": "2022-11-10",
+                    "size": 129661988,
+                    "downloadURL": "URL",
+                    "developerName": "",
+                    "localizedDescription": "",
+                    "iconURL": "URL PIC"
+                }
+            ]
+        }
