@@ -15,15 +15,15 @@
             "iconURL": "https://raw.githubusercontent.com/HollowIncX/Hollows-Crypt/main/Icons/Hornycraft%20icon.png"
         },
         {
-                    "name": "NAME",
-                    "bundleIdentifier": "com.google.ios.youtube",
-                    "version": "1.0",
-                    "versionDate": "2022-11-10",
-                    "size": 129661988,
-                    "downloadURL": "URL",
+                    "name": "Eternum",
+                    "bundleIdentifier": "com.Hollow.Eternum",
+                    "version": "0.6.2",
+                    "versionDate": "2023-09-13",
+                    "size": 6303204590,
+                    "downloadURL": "https://drive.google.com/u/1/uc?id=1B64z35NXlelPkd8r2KS6QFLOHfq1RDfC&export=download&confirm=t&uuid=dfd26006-5be2-4340-90b3-a8b148290e9b&at=AB6BwCAvz5JmUVu2vXJcUHJsNUAm:1694652752657",
                     "developerName": "",
-                    "localizedDescription": "",
-                    "iconURL": "URL PIC"
+                    "localizedDescription": "Port of Eternum v0.6.2",
+                    "iconURL": "https://raw.githubusercontent.com/HollowIncX/Hollows-Crypt/main/Icons/Eternum%20Icon.png"
                 }
             ]
         }
