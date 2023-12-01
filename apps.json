@@ -24,6 +24,17 @@
                     "developerName": "",
                     "localizedDescription": "Port of Eternum v0.6.2",
                     "iconURL": "https://raw.githubusercontent.com/HollowIncX/Hollows-Crypt/main/Icons/Eternum%20Icon.png"
+                },
+ {
+                    "name": "A Slut Phone",
+                    "bundleIdentifier": "com.Hollow.ASlutPhone",
+                    "version": "0.20",
+                    "versionDate": "2023-11-10",
+                    "size": 379151863,
+                    "downloadURL": "https://github.com/HollowIncX/Hollows-Crypt/releases/download/12-1-23/Aslootphone.ipa",
+                    "developerName": "",
+                    "localizedDescription": "Port of A Slut Phone v0.20",
+                    "iconURL": "https://github.com/HollowIncX/Hollows-Crypt/blob/main/Icons/Aslutphone%20icon.png?raw=true"
                 }
             ]
         }
