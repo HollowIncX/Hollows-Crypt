@@ -36,5 +36,16 @@
                     "localizedDescription": "Port of A Slut Phone v0.20",
                     "iconURL": "https://github.com/HollowIncX/Hollows-Crypt/blob/main/Icons/Aslutphone%20icon.png?raw=true"
                 }
+        {
+                    "name": "Sexbot",
+                    "bundleIdentifier": "com.Hollow.Sexbot",
+                    "version": "1.2.5",
+                    "versionDate": "2023-12-11",
+                    "size": 2109370896,
+                    "downloadURL": "https://drive.google.com/u/1/uc?id=1tf3BCNTRHg7FpKM5MARdWKMee9FvljDg&export=download&confirm=t&uuid=99452142-d1a2-4c3e-8c53-c5e08b0c081b&at=AB6BwCAuyTbzFG4iJZ3kcUx-oA1Z:1702287135705",
+                    "developerName": "",
+                    "localizedDescription": "Port of Sexbot v1.2.5",
+                    "iconURL": "https://github.com/HollowIncX/Hollows-Crypt/blob/main/Icons/Sexbot%20icon.png?raw=true"
+                }
             ]
         }
